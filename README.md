@@ -1,8 +1,7 @@
 ## Oioi! Eu sou o André Santos 👋
 Estudante de ciências da computação - UNICEUB
 
-- 🔭 I’m currently working on python
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning SQL
 - 🤔 I’m looking for Internship
 - 📫 How to reach me: gmail
 
