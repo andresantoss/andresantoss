@@ -3,7 +3,7 @@ Estudante de ciências da computação - UNICEUB
 
 - 🌱 I’m currently learning SQL
 - 🤔 I’m looking for Internship
-- 📫 How to reach me: gmail
+- 📫 How to reach me: andreugabagos@sempreceub.com
 
 <div align="center">
   <a href="https://github.com/andresantoss">
