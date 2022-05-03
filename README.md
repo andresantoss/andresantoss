@@ -1,7 +1,7 @@
 ## Oioi! Eu sou o André Santos 👋
 Estudante de ciências da computação - UNICEUB
 
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning JavaScript and C#
 - 🤔 I’m looking for Internship
 - 📫 How to reach me: andreugabagos@sempreceub.com
 
