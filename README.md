@@ -1,9 +1,9 @@
 ## Oioi! Eu sou o André Santos 👋
 Graduado de ciências da computação - UNICEUB
 
-- 🌱 I’m currently learning JavaScript and C#
-- 🤔 I’m looking for Internship
-- 📫 How to reach me: andreugabagos@sempreceub.com
+- 🌱 I’m currently learning SQL, noSQL
+- 🤔 I’m looking for Work
+- 📫 How to reach me: andregustavosantos76@sempreceub.com
 
 <div align="center">
   <a href="https://github.com/andresantoss">
