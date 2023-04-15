@@ -1,5 +1,5 @@
 ## Oioi! Eu sou o André Santos 👋
-Estudante de ciências da computação - UNICEUB
+Graduado de ciências da computação - UNICEUB
 
 - 🌱 I’m currently learning JavaScript and C#
 - 🤔 I’m looking for Internship
@@ -21,8 +21,6 @@ Estudante de ciências da computação - UNICEUB
   <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Andre-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-          
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/944776951200112720/953029208244912219/token_1_35.png">
 </div>
 
   ##
