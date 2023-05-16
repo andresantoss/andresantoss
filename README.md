@@ -21,7 +21,7 @@ Graduado de ciências da computação - UNICEUB
   <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Andre-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img align="center" alt="Andre-unity" height="30" width="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" > </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img align="center" alt="Andre-unity" height="30" width="30" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" > </a>
 </div>
 
   ##
