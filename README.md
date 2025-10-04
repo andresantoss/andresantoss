@@ -3,7 +3,7 @@ Graduado de ciências da computação - UNICEUB
 
 - 🌱 I’m currently learning SQL, noSQL
 - 🤔 I’m looking for Work
-- 📫 How to reach me: andregustavosantos76@sempreceub.com
+- 📫 How to reach me: andregustavosantos76@gmail.com
 
 <div align="center">
   <a href="https://github.com/andresantoss">
