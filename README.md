@@ -1,4 +1,4 @@
-## Oioi! Eu sou o André Santos 👋
+## Oi! Eu sou o André Santos 👋 Seja Bem-vindo!
 Graduado de ciências da computação - UNICEUB
 
 - 🌱 I’m currently learning SQL, noSQL
