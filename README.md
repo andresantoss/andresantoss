@@ -1,9 +1,11 @@
 ## Oi! Eu sou o André Santos 👋 Seja Bem-vindo!
-Graduado de ciências da computação - UNICEUB
+Especialista em Direito Digital e Proteção de Dados e Direito Digital com ênfase em Novas Tecnologias
+com Graduação em ciências da computação - CEUB
 
-- 🌱 I’m currently learning SQL, noSQL
-- 🤔 I’m looking for Work
+
+- 🌱 Focused on Generative AI and Cybersecurity.
 - 📫 How to reach me: andregustavosantos76@gmail.com
+- 💼 LinkedIn: andre-gustavo-de-oliveira-dos-santos-51aba51b6
 
 <div align="center">
   <a href="https://github.com/andresantoss">
